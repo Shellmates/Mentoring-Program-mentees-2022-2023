@@ -1,0 +1,14 @@
+author: ouxs
+author_link: https://github.com/ouxs-19
+category: web-client
+connection_info: http://cookies.web-client.challs.ctf.shellmates.club
+description: "> Can you be admin? \n\n**Author** : ouxs\n"
+difficulty: easy
+flags:
+- shellmates{AdM1n_I5_C0MING_HOM3}
+name: cookies
+state: hidden
+type: standard
+value: 200
+version: '0.1'
+wave: 6

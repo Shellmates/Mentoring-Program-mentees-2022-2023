@@ -1,0 +1,21 @@
+author: chenx3n
+author_link: https://github.com/malikDaCoda
+category: web-server
+connection_info: http://secret-agent.web-server.challs.ctf.shellmates.club
+description: '> Only super secret agents allowed
+
+
+  **Author** : chenx3n
+
+  '
+difficulty: ezmed
+files:
+- ./nginx.conf
+flags:
+- shellmates{$uuUuUUP3r_S3CR37_aG3Nt}
+name: secret agent
+state: visible
+type: standard
+value: 150
+version: '0.1'
+wave: 3

@@ -1,0 +1,13 @@
+author: ouxs
+category: linux/priv-esc
+connection_info: ssh -p 1103 ctf@priv-esc.challs.ctf.shellmates.club
+description: "> Do you trust the paths?  \n\n**Password** : ctf \n**Author** : ouxs\n"
+difficulty: medium
+flags:
+- shellmates{R3l47iV3_P4TH_4R3_Dan9eRou$}
+name: PATH
+state: visible
+type: standard
+value: 400
+version: '0.1'
+wave: 2

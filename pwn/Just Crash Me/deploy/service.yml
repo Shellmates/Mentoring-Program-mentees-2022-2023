@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: justcrashme
+  labels:
+    category: pwn
+    challenge: justcrashme
+spec:
+  type: NodePort
+  selector:
+    category: pwn
+    challenge: justcrashme
+  ports:
+    - port: 8000
+      name: tcp
+      targetPort: 8000
+      nodePort: 30500

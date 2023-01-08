@@ -1,0 +1,18 @@
+author: "Im\xE8ne"
+category: general-skills
+description: ">  Too many bases out there, don't you think?\n>  There is one out there\
+  \ that converts Bytes to ASCII, have you heard about it? The 64th one must be a\
+  \ thing\n\n**Author** : Im\xE8ne\n"
+difficulty: medium
+files:
+  - ./enc
+flags:
+  - shellmates{b64_c0nv3rts_Byt3s_t0_ASCII}
+name: From Base to maze
+state: visible
+tags:
+  - Base64
+type: standard
+value: 100
+version: '0.1'
+wave: 1

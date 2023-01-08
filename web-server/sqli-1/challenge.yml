@@ -1,0 +1,17 @@
+author: chenx3n
+category: web-server
+connection_info: http://sqli-1.web-server.challs.ctf.shellmates.club
+description: '> My First SQL injection!!
+
+
+  **Author** : chenx3n
+
+  '
+flags:
+- shellmates{SQLi_goeS_BrrRrRR}
+name: SQLi 1
+state: visible
+type: standard
+value: 150
+version: '0.1'
+wave: 3

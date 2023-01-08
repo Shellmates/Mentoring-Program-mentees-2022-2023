@@ -1,0 +1,22 @@
+author: souad
+category: crypto
+description: '> I have an encrypted message right here and I was told it was encrypted
+  using this key : simpleXor.
+
+  > See if you can recover it for me.
+
+
+  **Author** : souad
+
+  '
+difficulty: easy
+files:
+- ./enc
+flags:
+- shellmates{x0r_Is_1MpOr7ant_IN_Cryp7O_WOr1D}
+name: XOR1
+state: hidden
+type: standard
+value: 200
+version: '0.1'
+wave: 4

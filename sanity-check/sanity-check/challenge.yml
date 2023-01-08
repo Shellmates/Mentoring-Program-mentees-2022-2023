@@ -1,0 +1,35 @@
+author: souad
+category: sanity-check
+connection_info: nc -v general.challs.ctf.shellmates.club 1800
+deployment:
+  autoban: false
+  containerPort: 1337
+  deployed: true
+  dockerImage: sanity-check
+  dockerRepository: gcr.io/mentoring-program-371116
+  egress: deny
+  healthCheck:
+    initialDelaySeconds: 10
+    periodSeconds: 30
+  limits:
+    cpu: 50m
+    memory: 50Mi
+  name: sanity-check
+  nodePort: 30800
+  replicasNumber: 1
+  requests:
+    cpu: 10m
+    memory: 20Mi
+  type: tcp
+description: '> This is only a sanity check to make sure that you can connect to challenges.
+
+  '
+difficulty: easy
+flags:
+- shellmates{3V3rYth1NG_1S_l00k1Ng_G00D_Y0U_C4N_start}
+name: Sanity Check
+state: visible
+type: standard
+value: 10
+version: '0.1'
+wave: 1

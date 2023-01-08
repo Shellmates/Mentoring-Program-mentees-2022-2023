@@ -1,0 +1,17 @@
+author: "Im\xE8ne"
+category: general-skills
+description: "> Binary, octal , decimal ...Any other bases you heard about?\n**Author**\
+  \ : Im\xE8ne\n"
+difficulty: easy
+files:
+  - ./enc
+flags:
+  - shellmates{H3x_3nc0dinG_m4Y_b3_fuN_Huh}
+name: Hex
+state: visible
+tags:
+  - Hex
+type: standard
+value: 70
+version: '0.1'
+wave: 1

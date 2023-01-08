@@ -1,0 +1,14 @@
+author: souad
+category: linux-priv-esc
+connection_info: ssh -p 1101 ctf@priv-esc.challs.ctf.shellmates.club
+description: "> Try now to find a location where you can copy! but also to read it\
+  \ ...  \n\n**Password** : ctf  \n**Author** : souad\n"
+difficulty: ezmed
+flags:
+- shellmates{Y0u_do1ng_Job_W1Th_suDO_L3TS_$3e_For_TH3_N3XT_On3}
+name: sudo 2
+state: visible
+type: standard
+value: 150
+version: '0.1'
+wave: 2

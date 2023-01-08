@@ -1,0 +1,17 @@
+author: chenx3n
+category: linux-priv-esc
+connection_info: ssh -p 1102 ctf@priv-esc.challs.ctf.shellmates.club
+description: "> My friend installed this new `cowsay` command and he let me play around\
+  \ with it  \n> But I think it's more than just a cow saying things!  \n\n**Flag\
+  \ location**: `/flag.txt`  \n**Password** : ctf  \n**Author** : chenx3n\n"
+difficulty: medium
+flags:
+- shellmates{$uDO_G03s_m0OoOoo0OO0O0O0h}
+name: sudo 3
+state: visible
+tags:
+- gtfobins
+type: standard
+value: 300
+version: '0.1'
+wave: 2

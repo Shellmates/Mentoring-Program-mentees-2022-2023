@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+
+  web_special_header:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '1006:5000'
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      resources:
+        limits:
+          memory: 50M
+          cpus: '0.1'
+    healthcheck:
+      test: curl --fail http://localhost:5000 || exit 1
+      interval: 60s
+      retries: 5
+      start_period: 20s
+      timeout: 10s

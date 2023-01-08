@@ -1,0 +1,17 @@
+author: haithem_lamri
+author_link: https://github.com/HaithemLamri
+category: crypto
+description: "> Making N large or small won't ensure the security of my public key,\
+  \ so what about using a prime number, could you find the flag in this case?!  \n\
+  \n**Author** : haithem_lamri\n"
+difficulty: medium
+files:
+- ./RSA3.txt
+flags:
+- shellmates{N_5h0uld_B3_4_Pr0duct_of_7w0_Prim35}
+name: RSA3
+state: hidden
+type: standard
+value: 300
+version: '0.1'
+wave: 4

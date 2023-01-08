@@ -1,0 +1,18 @@
+author: ouxs
+category: web-server
+connection_info: http://leak.web-server.challs.ctf.shellmates.club
+description: '> the flag is in /flag, can you get it?
+
+
+  **Author** : ouxs
+
+  '
+difficulty: easy
+flags:
+- shellmates{LFIIII_FTW_3287964286}
+name: leak
+state: visible
+type: standard
+value: 100
+version: '0.1'
+wave: 3

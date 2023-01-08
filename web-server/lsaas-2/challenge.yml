@@ -1,0 +1,19 @@
+author: ouxs
+author_link: https://github.com/ouxs-19
+category: web-server
+connection_info: http://lsaas-2.web-server.challs.ctf.shellmates.club
+description: '> Can you LS the flag? This time you can''t, I''m sure.
+
+
+  **Author** : ouxs
+
+  '
+difficulty: medium
+flags:
+- shellmates{Y0u_M4d3_UR_W4Y_THR0U9Gh_my_L5_AG4IN_AGHHH}
+name: lsAAS 2
+state: visible
+type: standard
+value: 400
+version: '0.1'
+wave: 3

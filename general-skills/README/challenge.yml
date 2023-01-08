@@ -1,0 +1,16 @@
+author: "Im\xE8ne"
+category: general-skills
+connection_info: ssh -p 1701 ctf@general.challs.ctf.shellmates.club
+description: "> what a day, it is raining cats and dogs isn't it?  \n\n\n**Password**:\
+  \ ctf  \n**Author** : Im\xE8ne\n"
+difficulty: easy
+flags:
+- shellmates{Y0u_c4ught_M3_Cat_c0mm4nd_must_h4v3_h3lp3ed}
+name: README
+state: visible
+tags:
+- linux
+type: standard
+value: 50
+version: '0.1'
+wave: 1

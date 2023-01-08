@@ -1,0 +1,3 @@
+# give the permission to ctf user to run base64 command as ctf-cracked
+ctf    ALL=(ctf-cracked) /usr/bin/cat
+

@@ -1,0 +1,12 @@
+services:
+  users-server:
+    build: .
+    ports:
+      - '1206:22'
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      resources:
+        limits:
+          memory: 50M

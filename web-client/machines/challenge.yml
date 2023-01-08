@@ -1,0 +1,18 @@
+author: Chih3b
+category: web-client
+connection_info: http://machines.web-client.ctf.challs.shellmates.club
+description: '> I hide my flag in places that no one can find.
+
+
+  **Author** : Chih3b
+
+  '
+difficulty: easy
+flags:
+- shellmates{beep_b00p_beep_b3ep_?}
+name: machines
+state: hidden
+type: standard
+value: 100
+version: '0.1'
+wave: 6

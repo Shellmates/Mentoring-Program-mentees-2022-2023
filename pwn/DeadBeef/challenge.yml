@@ -1,0 +1,15 @@
+author: ouxs
+category: pwn
+description: "> Can you deadbeef the program??  \n\n**Connect with**: nc pnw.linux.ctf.shellmates.club\
+  \ 1501  \n\n**Author** : ouxs\n"
+difficulty: easy
+files:
+- ./chall.c
+- ./challenge/chall
+flags:
+- shellmates{D34D_B333333333F_IN70_t|-|E_$ERV3R}
+name: Dead beef
+state: hidden
+type: standard
+value: 200
+version: '0.1'

@@ -1,0 +1,17 @@
+author: haithem_lamri
+category: crypto
+description: "> So using small numbers to construct the modulus was a bad idea, this\
+  \ time i've chosen a small exponent to make the encryption much faster, \n> and\
+  \ even N is very large so you won't be able to get the flag!! Can you do it again?!\
+  \  \n\n**Author** : haithem_lamri\n"
+difficulty: medium
+files:
+- ./RSA2.txt
+flags:
+- shellmates{4v0id_5m4ll_3xp0n3nt5}
+name: RSA2
+state: hidden
+type: standard
+value: 300
+version: '0.1'
+wave: 4

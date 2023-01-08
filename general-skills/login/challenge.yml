@@ -1,0 +1,26 @@
+author: chenx3n
+author_link: https://github.com/malikDaCoda
+category: general-skills
+connection_info: nc general.challs.ctf.shellmates.club 1700
+description: '> This challenge tests your ability in understanding shell scripts,
+  check `login.sh`
+
+  > and connect to the remote service using the command below
+
+
+  **Author** : chenx3n
+
+  '
+difficulty: easy
+files:
+- login.sh
+flags:
+- shellmates{L33E3Et_uSeR}
+name: login
+state: visible
+tags:
+- bash
+type: standard
+value: 100
+version: '0.1'
+wave: 1

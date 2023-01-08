@@ -1,0 +1,17 @@
+author: "Im\xE8ne"
+category: general-skills
+description: ">  I am pretty sure you have heard about ASCII haven't you?\n**Author**\
+  \ : Im\xE8ne\n"
+difficulty: easy
+files:
+  - ./enc
+flags:
+  - shellmates{4sCiI_tr4nsl4t3s_Ch4Rs_t0_InTs}
+name: ASCII
+state: visible
+tags:
+  - ASCII
+type: standard
+value: 50
+version: '0.1'
+wave: 1

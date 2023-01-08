@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    ports:
+      - '1337:1337'
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure

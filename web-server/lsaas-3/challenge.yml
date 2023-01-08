@@ -1,0 +1,21 @@
+author: souad
+category: web-server
+connection_info: http://lsaas-3.web-server.challs.ctf.shellmates.club
+description: '>  Let''s see if you can make through this injection too.
+
+
+
+  **Author** : souad
+
+  '
+difficulty: hard
+files:
+- ./challenge/app/app.py
+flags:
+- shellmates{I_sH0uLD_hAvE_DOcUM3ntED_WelL_AB0UT_PYTH0n_R3gex_BefOR3_Th4t}
+name: lsAAS 3
+state: visible
+type: standard
+value: 700
+version: '0.1'
+wave: 3

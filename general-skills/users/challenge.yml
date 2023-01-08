@@ -1,0 +1,16 @@
+author: F100w
+category: general-skills
+connection_info: ssh -p 1703 ctf@general.challs.ctf.shellmates.club
+description: "> Check the available users in the system.  \n\n**Password** : ctf \
+  \ \n**Author** : F100w\n"
+difficulty: medium
+flags:
+- shellmates{gg_Y0u_F0Und_M3}
+name: Users
+state: visible
+tags:
+- linux
+type: standard
+value: 150
+version: '0.1'
+wave: 1

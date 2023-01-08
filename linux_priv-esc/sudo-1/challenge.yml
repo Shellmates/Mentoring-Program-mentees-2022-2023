@@ -1,0 +1,14 @@
+author: ouxs
+category: linux/priv-esc
+connection_info: ssh -p 1100 ctf@priv-esc.challs.ctf.shellmates.club
+description: "> They said you got some LINUX skills!  \n> Let's test them out  \n\n\
+  **Password** : ctf  \n**Author** : ouxs\n"
+difficulty: easy
+flags:
+- shellmates{This_k1D_KnOws_how_We_d0_7h1ng5_h3R3}
+name: sudo 1
+state: visible
+type: standard
+value: 50
+version: '0.1'
+wave: 2

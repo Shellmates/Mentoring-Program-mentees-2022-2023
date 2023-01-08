@@ -1,0 +1,18 @@
+author: m0kr4n3
+category: crypto
+description: "> In order to get rid of a special message and make it unrecoverable,\
+  \ \n> I encrypted it using \"randomly\" shuffled characters  \n\n**Author** : m0kr4n3\n"
+difficulty: hard
+files:
+- ./challenge.py
+flags:
+- shellmates{f1x1ng_th3_s33d_1s_d4ng3r10us}
+name: Unrecoverable
+state: hidden
+tags:
+- PRNG
+- Substitution
+type: standard
+value: 500
+version: '0.1'
+wave: 4

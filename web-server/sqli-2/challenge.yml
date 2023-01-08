@@ -1,0 +1,19 @@
+author: hfz1337
+category: web-server
+connection_info: http://sqli-2.web-server.challs.ctf.shellmates.club/
+description: '> SQL injections are still a problem yes, even in 2021.
+
+  > Bypass the login mechanism and get access to the admin area.
+
+
+
+  **Author**: hfz1337
+
+  '
+flags:
+- shellmates{c0ngr4tul4t10ns_U_d1d_1t!!_fe4cd84591ea}
+name: SQLi 2
+state: visible
+type: standard
+value: 700
+version: '0.1'

@@ -1,0 +1,16 @@
+author: "Im\xE8ne"
+category: general-skills
+connection_info: ssh -p 1702 ctf@general.challs.ctf.shellmates.club
+description: "> Are you able to see all of what is being hidden underneath the hood?\
+  \  \n\n**Password** : ctf  \n**Author** : Im\xE8ne\n"
+difficulty: easy
+flags:
+- shellmates{N0!_I_w4S_Pr3tty_SuR3_I_hld_W3ll}
+name: Hide and Ride
+state: visible
+tags:
+- linux
+type: standard
+value: 70
+version: '0.1'
+wave: 1
